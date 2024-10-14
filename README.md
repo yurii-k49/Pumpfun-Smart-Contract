@@ -1,6 +1,6 @@
 # Pump.fun: Solana Smart Contract on GitHub
 
-Welcome to the official **Pump.fun** smart contract repository on **GitHub**!  
+Welcome to the official Raydium LP Migrating **Pump.fun** smart contract repository on **GitHub**!  
 This project is a cutting-edge **Solana** smart contract powering the Pump.fun DeFi platform.  
 If you’re looking for the best example of a **Solana** “pump” project on **GitHub**, you’re in the right place.
 
