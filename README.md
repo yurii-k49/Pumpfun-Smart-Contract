@@ -9,6 +9,13 @@ If you’re looking for the best example of a **Solana** “pump” project on *
 Pump.fun is designed for the Solana blockchain, enabling fun and innovative DeFi experiences.  
 Whether you want to create, manage, or interact with liquidity pools, this GitHub repo is your go-to resource for Solana pump projects.
 
+
+## 📞 Support
+
+- **Telegram**: [@Tr1030109](https://t.me/Tr1030109)
+- **Discord**: 0xapp123
+- **GitHub Issues**: [Create an issue](https://github.com/Tronzit-Veca/Pumpfun-Smart-Contract/issues)
+
 ## 🚀 Features
 
 - **Virtual LP Management**: Add and remove virtual liquidity pools
@@ -162,11 +169,6 @@ npm run lint
 npm run lint:fix
 ```
 
-## 📞 Support
-
-- **Telegram**: [@Tr1030109](https://t.me/Tr1030109)
-- **Discord**: 0xapp123
-- **GitHub Issues**: [Create an issue](https://github.com/Tronzit-Veca/Pumpfun-Smart-Contract/issues)
 
 ## 📄 License
 
