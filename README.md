@@ -1,4 +1,4 @@
-# Pump.fun-Smart-Contract by keidev123
+# Pump.fun-Smart-Contract by osmi
 This is the Rust/Anchor smart contract for Pump.fun - Add virtual LP, remove LP, create Raydium Pool.
 # updated things
 - Integrated Meteora
